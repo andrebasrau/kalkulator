@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <string name="calculator">Calculator</string>
+    <string name="number_1">Number 1</string>
+    <string name="number_2">Number 2</string>
+    <string name="bagi">/</string>
+    <string name="tmbh">+</string>
+    <string name="kurng">-</string>
+    <string name="kali">*</string>
+    <string name="result">result :</string>
+    <string name="_0">0</string>
+    <string name="c">C</string>
+</resources>
